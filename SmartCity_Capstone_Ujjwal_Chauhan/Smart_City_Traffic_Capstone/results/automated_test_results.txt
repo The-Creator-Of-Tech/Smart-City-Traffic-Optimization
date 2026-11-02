@@ -1,0 +1,14 @@
+test_benchmark (__main__.SmartCityCLITests.test_benchmark) ... ok
+test_bfs_arrow_format (__main__.SmartCityCLITests.test_bfs_arrow_format) ... ok
+test_dfs (__main__.SmartCityCLITests.test_dfs) ... ok
+test_dijkstra (__main__.SmartCityCLITests.test_dijkstra) ... ok
+test_invalid_route_ids (__main__.SmartCityCLITests.test_invalid_route_ids) ... ok
+test_location_listing (__main__.SmartCityCLITests.test_location_listing) ... ok
+test_prim_mst (__main__.SmartCityCLITests.test_prim_mst) ... ok
+test_traffic_update (__main__.SmartCityCLITests.test_traffic_update) ... ok
+test_traffic_update_changes_route_score (__main__.SmartCityCLITests.test_traffic_update_changes_route_score) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 2.008s
+
+OK

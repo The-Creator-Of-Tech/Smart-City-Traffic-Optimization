@@ -1,0 +1,38 @@
+SMART CITY TRAFFIC MANAGEMENT & ROUTE OPTIMIZATION
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Locations:
+  0 - Central Station
+  1 - City Hospital
+  2 - University
+  3 - Market
+  4 - Airport
+  5 - Tech Park
+  6 - Residential Area
+Source ID and destination ID: 
+Recommended route (distance + traffic-delay cost):
+Central Station -> University -> Tech Park -> Airport
+Road-distance total: 12 units
+Traffic-delay total: 3 units
+Combined route score: 15 units
+Note: this score combines road distance and traffic delay for demonstration; real deployments should normalize units and use live travel-time estimates.
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: Thank you.

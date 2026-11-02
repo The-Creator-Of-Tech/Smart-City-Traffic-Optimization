@@ -1,0 +1,27 @@
+SMART CITY TRAFFIC MANAGEMENT & ROUTE OPTIMIZATION
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Benchmark (1000 runs; timings depend on computer/compiler):
+  BFS total: 0.10828 ms
+  Dijkstra total: 0.261517 ms
+Complexities: BFS/DFS O(V+E); Dijkstra with priority queue O((V+E) log V); Prim here O(V^2 + E) due to linear minimum-key selection.
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: Thank you.

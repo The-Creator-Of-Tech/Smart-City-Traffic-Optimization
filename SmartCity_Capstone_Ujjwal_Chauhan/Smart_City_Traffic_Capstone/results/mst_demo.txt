@@ -1,0 +1,31 @@
+SMART CITY TRAFFIC MANAGEMENT & ROUTE OPTIMIZATION
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Minimum Spanning Tree (road distance as cost):
+  Central Station -- Market (cost 3)
+  Central Station -- City Hospital (cost 4)
+  City Hospital -- University (cost 2)
+  University -- Tech Park (cost 3)
+  Tech Park -- Airport (cost 4)
+  Market -- Residential Area (cost 5)
+Total MST cost: 21
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: Thank you.

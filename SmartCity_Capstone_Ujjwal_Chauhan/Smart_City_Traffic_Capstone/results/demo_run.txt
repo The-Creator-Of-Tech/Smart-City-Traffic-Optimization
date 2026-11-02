@@ -1,0 +1,97 @@
+SMART CITY TRAFFIC MANAGEMENT & ROUTE OPTIMIZATION
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Locations:
+  0 - Central Station
+  1 - City Hospital
+  2 - University
+  3 - Market
+  4 - Airport
+  5 - Tech Park
+  6 - Residential Area
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Locations:
+  0 - Central Station
+  1 - City Hospital
+  2 - University
+  3 - Market
+  4 - Airport
+  5 - Tech Park
+  6 - Residential Area
+Start location ID: BFS traversal: Central Station -> City Hospital -> University -> Market -> Residential Area -> Tech Park -> Airport
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Locations:
+  0 - Central Station
+  1 - City Hospital
+  2 - University
+  3 - Market
+  4 - Airport
+  5 - Tech Park
+  6 - Residential Area
+Start location ID: DFS traversal: Central Station -> City Hospital -> University -> Market -> Airport -> Tech Park -> Residential Area
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: 
+Locations:
+  0 - Central Station
+  1 - City Hospital
+  2 - University
+  3 - Market
+  4 - Airport
+  5 - Tech Park
+  6 - Residential Area
+Source ID and destination ID: 
+Recommended route (distance + traffic-delay cost):
+Tech Park -> Residential Area
+Road-distance total: 6 units
+Traffic-delay total: 4 units
+Combined route score: 10 units
+Note: this score combines road distance and traffic delay for demonstration; real deployments should normalize units and use live travel-time estimates.
+
+1. Show locations
+2. BFS traversal
+3. DFS traversal
+4. Shortest route (Dijkstra)
+5. Infrastructure planning (Prim MST)
+6. Update traffic delay
+7. List roads
+8. Performance benchmark
+0. Exit
+Choose: Thank you.
